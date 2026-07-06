@@ -3,7 +3,7 @@
 <p align="center">
   <img src="<p align="center">
   <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
-</p>" width="300"/>
+</p>
 </p>
 - 🌱 I’m currently learning Advanced Agentic AI systems **(LangGraph, CrewAI, MCP), LLM orchestration, and production-grade MLOps (CI/CD, Kubernetes, MLflow)**
 
