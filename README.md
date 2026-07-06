@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Surabiga Thangarajah</h1>
 <h3 align="center">Engineering Graduate | Building AI, Generative AI & Agentic AI Applications</h3>
 <p align="center">
-  <img src="https://media.tenor.com/ika-musume-type-computer-hacking.gif" width="300" />
+  <img src="https://i.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300"/>
 </p>
-
 - 🌱 I’m currently learning Advanced Agentic AI systems **(LangGraph, CrewAI, MCP), LLM orchestration, and production-grade MLOps (CI/CD, Kubernetes, MLflow)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/surabigathangarajah](https://github.com/surabigathangarajah)
