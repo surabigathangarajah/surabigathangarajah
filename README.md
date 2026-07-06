@@ -8,7 +8,7 @@
 
 </p>
 </p>
-- 🌱 I’m currently learning Advanced Agentic AI systems **(LangGraph, CrewAI, MCP), LLM orchestration, and production-grade MLOps (CI/CD, Kubernetes, MLflow)**
+- 🌱 I’m currently learning Advanced Agentic AI systems (LangGraph, CrewAI, MCP), LLM orchestration, and production-grade MLOps (CI/CD, Kubernetes, MLflow)
 
 - 👨‍💻 All of my projects are available at [https://github.com/surabigathangarajah](https://github.com/surabigathangarajah)
 
