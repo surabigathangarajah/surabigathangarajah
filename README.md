@@ -2,7 +2,7 @@
   <img src="./neone2.jpg" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Surabiga Thangarajah</h1>
-<h3 align="center">Engineering Graduate | Building AI, Generative AI & Agentic AI Applications</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2CDDF7&center=true&vCenter=true&width=1500&lines=Engineering+Graduate+%7C+Building+AI%2C+Generative+AI+%26+Agentic+AI+Applications" alt="Typing SVG" /></a>
 <p align="center">
 
   <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" />
