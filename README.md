@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surabiga Thangarajah</h1>
 <h3 align="center">Engineering Graduate | Building AI, Generative AI & Agentic AI Applications</h3>
 <p align="center">
-  <img src="<p align="center">
   <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
 </p>
 </p>
