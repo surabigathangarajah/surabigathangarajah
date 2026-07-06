@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **surabythangarajah@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Hc3eNlcXktqI1PKWUhmDnN2tQ_ifcTHo/view?usp=sharing](https://drive.google.com/file/d/1Hc3eNlcXktqI1PKWUhmDnN2tQ_ifcTHo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
