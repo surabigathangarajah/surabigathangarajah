@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surabiga Thangarajah</h1>
-<h3 align="center">AI/ML Engineer | Generative AI & Agentic AI Developer</h3>
+<h3 align="center">Engineering Graduate | Building AI, Generative AI & Agentic AI Applications</h3>
 
 - 🌱 I’m currently learning Advanced Agentic AI systems **(LangGraph, CrewAI, MCP), LLM orchestration, and production-grade MLOps (CI/CD, Kubernetes, MLflow)**
 
