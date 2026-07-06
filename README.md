@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./neone.jpg" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Surabiga Thangarajah</h1>
 <h3 align="center">Engineering Graduate | Building AI, Generative AI & Agentic AI Applications</h3>
 <p align="center">
