@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Surabiga Thangarajah</h1>
 <h3 align="center">Engineering Graduate | Building AI, Generative AI & Agentic AI Applications</h3>
 <p align="center">
-  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
+
+  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" />
+  <img src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
+  <img src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" />
+
 </p>
 </p>
 - 🌱 I’m currently learning Advanced Agentic AI systems **(LangGraph, CrewAI, MCP), LLM orchestration, and production-grade MLOps (CI/CD, Kubernetes, MLflow)**
