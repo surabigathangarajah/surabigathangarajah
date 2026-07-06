@@ -2,16 +2,18 @@
   <img src="./Binary.jpg" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Surabiga Thangarajah</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2CDDF7&center=true&vCenter=true&width=1500&lines=Engineering+Graduate+%7C+Building+AI%2C+Generative+AI+%26+Agentic+AI+Applications" alt="Typing SVG" /></a>
 <p align="center">
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=1500&lines=Engineering+Graduate+%7C+Building+AI%2C+Generative+AI+%26+Agentic+AI+Applications" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
   <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" />
   <img src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
   <img src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" />
-
 </p>
 </p>
-- 🌱 I’m currently learning Advanced Agentic AI systems (LangGraph, CrewAI, MCP), LLM orchestration, and production-grade MLOps (CI/CD, Kubernetes, MLflow)
+I’m currently learning Advanced Agentic AI systems (LangGraph, CrewAI, MCP), LLM orchestration, and production-grade MLOps (CI/CD, Kubernetes, MLflow)
 
 - 👨‍💻 All of my projects are available at [https://github.com/surabigathangarajah](https://github.com/surabigathangarajah)
 
