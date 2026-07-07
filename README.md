@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Surabiga Thangarajah</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=1500&lines=Engineering+Graduate+%7C+Building+AI%2C+Generative+AI+%26+Agentic+AI+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7F00FF&center=true&vCenter=true&width=1500&lines=Engineering+Graduate+%7C+Building+AI%2C+Generative+AI+%26+Agentic+AI+Applications" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
