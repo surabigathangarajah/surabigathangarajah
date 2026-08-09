@@ -13,13 +13,6 @@
   <img src="https://media1.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" />
 </p>
 </p>
-I’m currently learning Advanced Agentic AI systems (LangGraph, CrewAI, MCP), LLM orchestration, and production-grade MLOps (CI/CD, Kubernetes, MLflow)
-
-- 👨‍💻 All of my projects are available at [https://github.com/surabigathangarajah](https://github.com/surabigathangarajah)
-
-- 📝 I regularly write articles on [https://medium.com/@surabythangarajah](https://medium.com/@surabythangarajah)
-
-- 📫 How to reach me **surabythangarajah@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
